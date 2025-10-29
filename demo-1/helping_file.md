@@ -30,5 +30,5 @@ on top after creating table and clicking save
 - structure button on top
 - insert button
 - browse button to check what u have inserted
-- search button : there u can put values to search whther its availablle or not
+- search button : there u can put values to search whether its availablle or not
 -

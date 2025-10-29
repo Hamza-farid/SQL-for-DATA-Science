@@ -1,0 +1,6 @@
+DB -> Complex     [CRUD]
+
+1.create  (db create ,tables)
+2.retrieve (login example)
+3.update  (edit msg)
+4.delete  (msg delete)
